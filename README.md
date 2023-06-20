@@ -1,2 +1,2 @@
 # Edwin_Data606
-Data 606 CapStone Project
+Data Sceince 606 CapStone Project
